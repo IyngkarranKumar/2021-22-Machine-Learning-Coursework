@@ -1,2 +1,1 @@
-# Coursework
-Contains coursework from degree programme
+# Year 2 ML coursework
